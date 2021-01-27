@@ -1,6 +1,6 @@
 //*************IMPLEMENTATION OF QUEUE USING ARRAY***********************
 
-/*#include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
 #include<string.h>
@@ -143,5 +143,5 @@ int main()
 	while(1);
 		
 	return 0;
-}*/
+}
 
