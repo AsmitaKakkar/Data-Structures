@@ -9,7 +9,7 @@
 void printmenu()
 {
 	system("cls");
-	printf("\t\tSTACK MENU\t\t\n");
+	printf("\t\t\tSTACK MENU\t\t\t\n");
 	printf("1. Inserting data in a queue\n ");
 	printf("2. Deleting data from the queue\n");
 	printf("3. Displaying peek value\n");
